@@ -10,3 +10,6 @@
 .hgignore
 .hg/
 .calva/output-window/output.calva-repl
+.clj-kondo/*
+.lsp/*
+.calva/output-window/*
